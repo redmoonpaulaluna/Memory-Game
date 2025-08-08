@@ -3,7 +3,7 @@ const cardsSymbols = [
   "📡", "🧑‍💻", "🧩", "🧱"
 ]; // 8 pairs
 
-const totalClicksAllowed = 32;
+const totalClicksAllowed = 20;
 let clicksLeft = totalClicksAllowed;
 let firstCard = null;
 let secondCard = null;
